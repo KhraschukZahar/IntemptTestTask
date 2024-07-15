@@ -1,0 +1,177 @@
+{
+  "cookies": [
+    {
+      "name": "_csrf",
+      "value": "Q6jX25DXDY-DAesowsFhQUCj",
+      "domain": "auth.intempt.com",
+      "path": "/usernamepassword/login",
+      "expires": 1721923186.555187,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "profileId",
+      "value": "prof_lyn67aeh_1721059185257_henaly76bU",
+      "domain": "app.intempt.com",
+      "path": "/",
+      "expires": 1723651185,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "did",
+      "value": "s%3Av0%3A4e31b918-3988-43e0-8a0a-342f788d2890.PSvHV%2FdG28dP%2BRWA%2FfM5%2FGMtNDvm05FSUC%2F9RCbTotE",
+      "domain": "auth.intempt.com",
+      "path": "/",
+      "expires": 1752616786.184599,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "did_compat",
+      "value": "s%3Av0%3A4e31b918-3988-43e0-8a0a-342f788d2890.PSvHV%2FdG28dP%2BRWA%2FfM5%2FGMtNDvm05FSUC%2F9RCbTotE",
+      "domain": "auth.intempt.com",
+      "path": "/",
+      "expires": 1752616786.184744,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth0",
+      "value": "s%3AsgiiSEmdLPhHQBMFUGND8eC9HlD7O6F0.QIwyPrlpX%2F54CSVJp8ZhScpWnRimoUCeOCXq3rWybkM",
+      "domain": "auth.intempt.com",
+      "path": "/",
+      "expires": 1721318388.655526,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "auth0_compat",
+      "value": "s%3AsgiiSEmdLPhHQBMFUGND8eC9HlD7O6F0.QIwyPrlpX%2F54CSVJp8ZhScpWnRimoUCeOCXq3rWybkM",
+      "domain": "auth.intempt.com",
+      "path": "/",
+      "expires": 1721318388.655608,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "page_session",
+      "value": "{\"id\":\"pag_lyn67dbe_1721059189034_bne6d7lyct\",\"previous_page\":\"https://app.intempt.com/\",\"current_page\":\"https://app.intempt.com/?code=1jJXVRNHUoBGzO4LzR7d7iogpnUfcF9areNzPAm4o-9JB&state=eDN2UnBHNFJNdlRwR2g1Y2I5NlE5TkpoNjVRaFN2NVMudmZVUFZWZmdSYg%3D%3D\",\"startTime\":1721059189034}",
+      "domain": "app.intempt.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "intempt_session",
+      "value": "{\"id\":\"ses_lyn67dbf_1721059189035_bl7dyfn6JO\"}",
+      "domain": ".app.intempt.com",
+      "path": "/",
+      "expires": 1721060989,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "logs=1&id=55e20730-fe92-44b6-97ea-8203c69c3742&created=1721059186035&expire=1721060089201",
+      "domain": "app.intempt.com",
+      "path": "/",
+      "expires": 1721060089,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "m",
+      "value": "0054f2d7-9199-48e2-be1a-13dff8385a2d4ddcc8",
+      "domain": "m.stripe.com",
+      "path": "/",
+      "expires": 1755619189.341127,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__stripe_mid",
+      "value": "1d76c0ff-38a8-49bf-9409-ca1f1ffb7028b3a5e8",
+      "domain": ".app.intempt.com",
+      "path": "/",
+      "expires": 1752595189,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__stripe_sid",
+      "value": "786b6b8e-2010-40b5-a3f7-06ced51feef763ef55",
+      "domain": ".app.intempt.com",
+      "path": "/",
+      "expires": 1721060989,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_intempt_landing_page",
+      "value": "https://app.intempt.com",
+      "domain": "app.intempt.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_legacy_auth0.OLLYLcVpZVhpO0ItWASKcVP64Emree5S.is.authenticated",
+      "value": "true",
+      "domain": "app.intempt.com",
+      "path": "/",
+      "expires": 1721145589,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth0.OLLYLcVpZVhpO0ItWASKcVP64Emree5S.is.authenticated",
+      "value": "true",
+      "domain": "app.intempt.com",
+      "path": "/",
+      "expires": 1721145589,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://app.intempt.com",
+      "localStorage": [
+        {
+          "name": "vuex",
+          "value": "{\"authorization\":{\"loading\":true,\"isOnboarded\":true,\"current_user\":null,\"loading_current_user\":true,\"current_user_permissions\":null,\"loading_current_user_permissions\":true,\"selected_token\":\"Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik4wRTFPRVEwTVRFd09VTTFNa1l6TWpBME0wRTVSRVUxTURneFJEWkRPVGcyUlRKQlJVSTROdyJ9.eyJodHRwczovL2FwaS5pbnRlbXB0LmNvbS9vcmdzIjpbeyJpZCI6MSwibmFtZSI6InBsYXlncm91bmQiLCJyb2xlIjoib3duZXIifV0sImh0dHBzOi8vYXBpLmludGVtcHQuY29tL3Byb2plY3RzIjpbeyJvcmdJZCI6MSwiaWQiOiIxIiwibmFtZSI6ImVjb21tZXJjZS1kZW1vIn1dLCJodHRwczovL2FwaS5pbnRlbXB0LmNvbS9wZXJzb25JZCI6IjEzNDgiLCJpc3MiOiJodHRwczovL2F1dGguaW50ZW1wdC5jb20vIiwic3ViIjoiYXV0aDB8NjY4N2UxNTYxNGY2ZGUxOTRlMzFjODAwIiwiYXVkIjpbImh0dHBzOi8vYXBpLmludGVtcHQuY29tIiwiaHR0cHM6Ly9wcm9kLWludGVtcHQuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTcyMTA1OTE5MCwiZXhwIjoxNzIxMTQ1NTkwLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIiwiYXpwIjoiT0xMWUxjVnBaVmhwTzBJdFdBU0tjVlA2NEVtcmVlNVMifQ.m9OzppoXodZ74HjOP_0KfD9j4oE2zJMjcvdUGCMbsUygG0AiGPeS5jiQg8BhpZYLPyOlEQ0FgCudly42eMn-j4jhJI7uOzJNbXKM67LVmAZJpxxuHqq-diowJ1UP7ayqdY5IqFCEaSvWzwsHtrWhE_T89G-NGlNR1UaA9P0bJB1AhCMJebbnVgjshDjMkFU680hBSFBwEmyQ0KS2DWdLAWQYUsb4CSUdIDc1CkQsetPJEA6ihak01kRZL95VaNRvN2AOCenFz8h7VPifFG9x3A7swN95nxxh5R_eD090dH3zlPovHntdW1aNTkstth30z7uZb80bKiA2S49JVMQMrA\",\"loading_selected_token\":true},\"organizations\":{\"organization_list\":[],\"loading_organization_list\":true,\"selected_organization\":null,\"loading_selected_organization\":true,\"loading_name_check\":false},\"projects\":{\"project_list\":[],\"loading_project_list\":true,\"selected_project\":null,\"loading_selected_project\":true,\"data_subject_request_list\":[],\"loading_data_subject_request_list\":true},\"onboarding\":{\"company_name\":\"\",\"company_website\":\"\",\"industry\":\"\",\"contact_number\":\"\",\"company_size\":\"\",\"active_users\":\"\",\"source\":\"\",\"useCases\":{\"CDP, Insights, Privacy\":[],\"AI\":[],\"Personalization\":[],\"Marketing Journeys\":[],\"Sales Playbooks\":[],\"Full Stack Experimentation\":[]},\"loaded\":false,\"sessionId\":\"\",\"integrationId\":\"\"},\"attributes\":{\"attribute_list\":[],\"loading_attribute_list\":true,\"event_attribute_list\":[],\"loading_event_attribute_list\":true,\"selected_attribute\":null,\"loading_selected_attribute\":true,\"profile_attribute_list\":[],\"loading_profile_attribute_list\":true,\"selected_profile_attribute\":null,\"loading_selected_profile_attribute\":true,\"selected_attribute_features\":[],\"loading_selected_attribute_features\":true,\"selected_attribute_values\":[],\"loading_selected_attribute_values\":true,\"selected_attribute_relations\":[],\"loading_selected_attribute_relations\":true,\"possible_mappings\":[],\"loading_possible_mappings\":true},\"sources\":{\"source_list\":[],\"loading_source_list\":true,\"selected_source\":null,\"loading_selected_source\":true,\"history\":[],\"loading_history\":true,\"collection_list\":[],\"loading_collection_list\":true,\"schedule\":null,\"loading_schedule\":true,\"connector\":null,\"loading_connector\":null,\"selected_source_relations\":[],\"loading_selected_source_relations\":true},\"integrations\":{\"integrations\":null,\"integration_data\":null,\"charge_data\":null,\"charge_id\":null,\"shopify_session_id\":null,\"loading_integrations\":true,\"loading_integration_data\":true,\"loading_charge_data\":true,\"loading_shopify_session_id\":true,\"loading_charge_id\":true}}"
+        },
+        {
+          "name": "@@auth0spajs@@::OLLYLcVpZVhpO0ItWASKcVP64Emree5S::https://api.intempt.com::openid profile email offline_access",
+          "value": "{\"body\":{\"access_token\":\"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik4wRTFPRVEwTVRFd09VTTFNa1l6TWpBME0wRTVSRVUxTURneFJEWkRPVGcyUlRKQlJVSTROdyJ9.eyJodHRwczovL2FwaS5pbnRlbXB0LmNvbS9vcmdzIjpbeyJpZCI6MSwibmFtZSI6InBsYXlncm91bmQiLCJyb2xlIjoib3duZXIifV0sImh0dHBzOi8vYXBpLmludGVtcHQuY29tL3Byb2plY3RzIjpbeyJvcmdJZCI6MSwiaWQiOiIxIiwibmFtZSI6ImVjb21tZXJjZS1kZW1vIn1dLCJodHRwczovL2FwaS5pbnRlbXB0LmNvbS9wZXJzb25JZCI6IjEzNDgiLCJpc3MiOiJodHRwczovL2F1dGguaW50ZW1wdC5jb20vIiwic3ViIjoiYXV0aDB8NjY4N2UxNTYxNGY2ZGUxOTRlMzFjODAwIiwiYXVkIjpbImh0dHBzOi8vYXBpLmludGVtcHQuY29tIiwiaHR0cHM6Ly9wcm9kLWludGVtcHQuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTcyMTA1OTE5MCwiZXhwIjoxNzIxMTQ1NTkwLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIiwiYXpwIjoiT0xMWUxjVnBaVmhwTzBJdFdBU0tjVlA2NEVtcmVlNVMifQ.m9OzppoXodZ74HjOP_0KfD9j4oE2zJMjcvdUGCMbsUygG0AiGPeS5jiQg8BhpZYLPyOlEQ0FgCudly42eMn-j4jhJI7uOzJNbXKM67LVmAZJpxxuHqq-diowJ1UP7ayqdY5IqFCEaSvWzwsHtrWhE_T89G-NGlNR1UaA9P0bJB1AhCMJebbnVgjshDjMkFU680hBSFBwEmyQ0KS2DWdLAWQYUsb4CSUdIDc1CkQsetPJEA6ihak01kRZL95VaNRvN2AOCenFz8h7VPifFG9x3A7swN95nxxh5R_eD090dH3zlPovHntdW1aNTkstth30z7uZb80bKiA2S49JVMQMrA\",\"scope\":\"openid profile email offline_access\",\"expires_in\":86400,\"token_type\":\"Bearer\",\"audience\":\"https://api.intempt.com\",\"oauthTokenScope\":\"openid profile email\",\"client_id\":\"OLLYLcVpZVhpO0ItWASKcVP64Emree5S\"},\"expiresAt\":1721145589}"
+        },
+        {
+          "name": "changes_/",
+          "value": "{\"changes\":[]}"
+        },
+        {
+          "name": "@@auth0spajs@@::OLLYLcVpZVhpO0ItWASKcVP64Emree5S::@@user@@",
+          "value": "{\"id_token\":\"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik4wRTFPRVEwTVRFd09VTTFNa1l6TWpBME0wRTVSRVUxTURneFJEWkRPVGcyUlRKQlJVSTROdyJ9.eyJodHRwczovL2FwaS5pbnRlbXB0LmNvbS9vcmdzIjpbeyJpZCI6MSwibmFtZSI6InBsYXlncm91bmQiLCJyb2xlIjoib3duZXIifV0sImh0dHBzOi8vYXBpLmludGVtcHQuY29tL3Byb2plY3RzIjpbeyJvcmdJZCI6MSwiaWQiOiIxIiwibmFtZSI6ImVjb21tZXJjZS1kZW1vIn1dLCJodHRwczovL2FwaS5pbnRlbXB0LmNvbS9wZXJzb25JZCI6IjEzNDgiLCJuaWNrbmFtZSI6IkludGVydmlld2luZyEiLCJuYW1lIjoiSW50ZXJ2aWV3aW5nISIsInBpY3R1cmUiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci85NDU4ODM1YzdmNDJkOTVhY2UxZTgwYzNlZDg3YTRjNz9zPTQ4MCZyPXBnJmQ9aHR0cHMlM0ElMkYlMkZjZG4uYXV0aDAuY29tJTJGYXZhdGFycyUyRmluLnBuZyIsInVwZGF0ZWRfYXQiOiIyMDI0LTA3LTE1VDE1OjU5OjQ4LjMzOFoiLCJlbWFpbCI6ImJvbGFtNzQxNTNAYXBuNy5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9hdXRoLmludGVtcHQuY29tLyIsImF1ZCI6Ik9MTFlMY1ZwWlZocE8wSXRXQVNLY1ZQNjRFbXJlZTVTIiwiaWF0IjoxNzIxMDU5MTkwLCJleHAiOjE3MjEwNjI3OTAsInN1YiI6ImF1dGgwfDY2ODdlMTU2MTRmNmRlMTk0ZTMxYzgwMCIsInNpZCI6IjJrOE5xNTNxWEpYbHQtQWlzWFphNUZ1Vm5QaHE1NU1NIiwibm9uY2UiOiJSalJxTFVSSVZEWktTbFUyVlZoaFlucGZkR3A0WkdsS1dqQXhZUzFIVTBKcVV6WkRhamRYWVVRMGJBPT0ifQ.PBFhuLtMbuP0PCH-60yf3AtlwKSa8B5-tsIaeVJbIBNvrwvGxWIcwEZHDa_3Xhpiit0xBAa80Jryno3QZWEZjP_ngnoGfju60ISsMQGtGZm6XdKAJLXs364_koyXzbtmZRof3mygHsIwxaVFg17m8dfiUb32On6klvOBfffuoIZfl_nivou-IzBToz3GZfJBtdcFsOMrQWkxjb-NqnuS95Qxxbrne78k1RruFpod51suMEujs8dk0I2c3b0XaU9_Jv3CzI8fI89iD4D-ghztQ82pbxW7gF2OPc5Kv9tnYFE4jm_Soh_T0FnLWJ9FIpai8CjGjDfqW98ITIrpnXgVAA\",\"decodedToken\":{\"encoded\":{\"header\":\"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik4wRTFPRVEwTVRFd09VTTFNa1l6TWpBME0wRTVSRVUxTURneFJEWkRPVGcyUlRKQlJVSTROdyJ9\",\"payload\":\"eyJodHRwczovL2FwaS5pbnRlbXB0LmNvbS9vcmdzIjpbeyJpZCI6MSwibmFtZSI6InBsYXlncm91bmQiLCJyb2xlIjoib3duZXIifV0sImh0dHBzOi8vYXBpLmludGVtcHQuY29tL3Byb2plY3RzIjpbeyJvcmdJZCI6MSwiaWQiOiIxIiwibmFtZSI6ImVjb21tZXJjZS1kZW1vIn1dLCJodHRwczovL2FwaS5pbnRlbXB0LmNvbS9wZXJzb25JZCI6IjEzNDgiLCJuaWNrbmFtZSI6IkludGVydmlld2luZyEiLCJuYW1lIjoiSW50ZXJ2aWV3aW5nISIsInBpY3R1cmUiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci85NDU4ODM1YzdmNDJkOTVhY2UxZTgwYzNlZDg3YTRjNz9zPTQ4MCZyPXBnJmQ9aHR0cHMlM0ElMkYlMkZjZG4uYXV0aDAuY29tJTJGYXZhdGFycyUyRmluLnBuZyIsInVwZGF0ZWRfYXQiOiIyMDI0LTA3LTE1VDE1OjU5OjQ4LjMzOFoiLCJlbWFpbCI6ImJvbGFtNzQxNTNAYXBuNy5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9hdXRoLmludGVtcHQuY29tLyIsImF1ZCI6Ik9MTFlMY1ZwWlZocE8wSXRXQVNLY1ZQNjRFbXJlZTVTIiwiaWF0IjoxNzIxMDU5MTkwLCJleHAiOjE3MjEwNjI3OTAsInN1YiI6ImF1dGgwfDY2ODdlMTU2MTRmNmRlMTk0ZTMxYzgwMCIsInNpZCI6IjJrOE5xNTNxWEpYbHQtQWlzWFphNUZ1Vm5QaHE1NU1NIiwibm9uY2UiOiJSalJxTFVSSVZEWktTbFUyVlZoaFlucGZkR3A0WkdsS1dqQXhZUzFIVTBKcVV6WkRhamRYWVVRMGJBPT0ifQ\",\"signature\":\"PBFhuLtMbuP0PCH-60yf3AtlwKSa8B5-tsIaeVJbIBNvrwvGxWIcwEZHDa_3Xhpiit0xBAa80Jryno3QZWEZjP_ngnoGfju60ISsMQGtGZm6XdKAJLXs364_koyXzbtmZRof3mygHsIwxaVFg17m8dfiUb32On6klvOBfffuoIZfl_nivou-IzBToz3GZfJBtdcFsOMrQWkxjb-NqnuS95Qxxbrne78k1RruFpod51suMEujs8dk0I2c3b0XaU9_Jv3CzI8fI89iD4D-ghztQ82pbxW7gF2OPc5Kv9tnYFE4jm_Soh_T0FnLWJ9FIpai8CjGjDfqW98ITIrpnXgVAA\"},\"header\":{\"alg\":\"RS256\",\"typ\":\"JWT\",\"kid\":\"N0E1OEQ0MTEwOUM1MkYzMjA0M0E5REU1MDgxRDZDOTg2RTJBRUI4Nw\"},\"claims\":{\"__raw\":\"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik4wRTFPRVEwTVRFd09VTTFNa1l6TWpBME0wRTVSRVUxTURneFJEWkRPVGcyUlRKQlJVSTROdyJ9.eyJodHRwczovL2FwaS5pbnRlbXB0LmNvbS9vcmdzIjpbeyJpZCI6MSwibmFtZSI6InBsYXlncm91bmQiLCJyb2xlIjoib3duZXIifV0sImh0dHBzOi8vYXBpLmludGVtcHQuY29tL3Byb2plY3RzIjpbeyJvcmdJZCI6MSwiaWQiOiIxIiwibmFtZSI6ImVjb21tZXJjZS1kZW1vIn1dLCJodHRwczovL2FwaS5pbnRlbXB0LmNvbS9wZXJzb25JZCI6IjEzNDgiLCJuaWNrbmFtZSI6IkludGVydmlld2luZyEiLCJuYW1lIjoiSW50ZXJ2aWV3aW5nISIsInBpY3R1cmUiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci85NDU4ODM1YzdmNDJkOTVhY2UxZTgwYzNlZDg3YTRjNz9zPTQ4MCZyPXBnJmQ9aHR0cHMlM0ElMkYlMkZjZG4uYXV0aDAuY29tJTJGYXZhdGFycyUyRmluLnBuZyIsInVwZGF0ZWRfYXQiOiIyMDI0LTA3LTE1VDE1OjU5OjQ4LjMzOFoiLCJlbWFpbCI6ImJvbGFtNzQxNTNAYXBuNy5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9hdXRoLmludGVtcHQuY29tLyIsImF1ZCI6Ik9MTFlMY1ZwWlZocE8wSXRXQVNLY1ZQNjRFbXJlZTVTIiwiaWF0IjoxNzIxMDU5MTkwLCJleHAiOjE3MjEwNjI3OTAsInN1YiI6ImF1dGgwfDY2ODdlMTU2MTRmNmRlMTk0ZTMxYzgwMCIsInNpZCI6IjJrOE5xNTNxWEpYbHQtQWlzWFphNUZ1Vm5QaHE1NU1NIiwibm9uY2UiOiJSalJxTFVSSVZEWktTbFUyVlZoaFlucGZkR3A0WkdsS1dqQXhZUzFIVTBKcVV6WkRhamRYWVVRMGJBPT0ifQ.PBFhuLtMbuP0PCH-60yf3AtlwKSa8B5-tsIaeVJbIBNvrwvGxWIcwEZHDa_3Xhpiit0xBAa80Jryno3QZWEZjP_ngnoGfju60ISsMQGtGZm6XdKAJLXs364_koyXzbtmZRof3mygHsIwxaVFg17m8dfiUb32On6klvOBfffuoIZfl_nivou-IzBToz3GZfJBtdcFsOMrQWkxjb-NqnuS95Qxxbrne78k1RruFpod51suMEujs8dk0I2c3b0XaU9_Jv3CzI8fI89iD4D-ghztQ82pbxW7gF2OPc5Kv9tnYFE4jm_Soh_T0FnLWJ9FIpai8CjGjDfqW98ITIrpnXgVAA\",\"https://api.intempt.com/orgs\":[{\"id\":1,\"name\":\"playground\",\"role\":\"owner\"}],\"https://api.intempt.com/projects\":[{\"orgId\":1,\"id\":\"1\",\"name\":\"ecommerce-demo\"}],\"https://api.intempt.com/personId\":\"1348\",\"nickname\":\"Interviewing!\",\"name\":\"Interviewing!\",\"picture\":\"https://s.gravatar.com/avatar/9458835c7f42d95ace1e80c3ed87a4c7?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fin.png\",\"updated_at\":\"2024-07-15T15:59:48.338Z\",\"email\":\"bolam74153@apn7.com\",\"email_verified\":true,\"iss\":\"https://auth.intempt.com/\",\"aud\":\"OLLYLcVpZVhpO0ItWASKcVP64Emree5S\",\"iat\":1721059190,\"exp\":1721062790,\"sub\":\"auth0|6687e15614f6de194e31c800\",\"sid\":\"2k8Nq53qXJXlt-AisXZa5FuVnPhq55MM\",\"nonce\":\"RjRqLURIVDZKSlU2VVhhYnpfdGp4ZGlKWjAxYS1HU0JqUzZDajdXYUQ0bA==\"},\"user\":{\"https://api.intempt.com/orgs\":[{\"id\":1,\"name\":\"playground\",\"role\":\"owner\"}],\"https://api.intempt.com/projects\":[{\"orgId\":1,\"id\":\"1\",\"name\":\"ecommerce-demo\"}],\"https://api.intempt.com/personId\":\"1348\",\"nickname\":\"Interviewing!\",\"name\":\"Interviewing!\",\"picture\":\"https://s.gravatar.com/avatar/9458835c7f42d95ace1e80c3ed87a4c7?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fin.png\",\"updated_at\":\"2024-07-15T15:59:48.338Z\",\"email\":\"bolam74153@apn7.com\",\"email_verified\":true,\"sub\":\"auth0|6687e15614f6de194e31c800\"}}}"
+        }
+      ]
+    }
+  ]
+}
